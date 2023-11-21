@@ -8,6 +8,7 @@ export const VisionariesLayout = styled.div`
   gap: 82px;
   width: 100%;
   height: 596;
+  background: var(--neutrals-grey-9, #19191d);
 `;
 
 export const VisionariesCardWrapper = styled.div`

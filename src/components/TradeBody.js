@@ -11,6 +11,7 @@ import Feedback from "./Feedback";
 import MoneyEarning from "./MoneyEarning";
 import Community from "./Community";
 import Visionaries from "./Visionaries";
+import StartTrading from "./StartTrading";
 const TradeBody = () => {
   return (
     <>
@@ -32,6 +33,7 @@ const TradeBody = () => {
       <MoneyEarning />
       <Community />
       <Visionaries />
+      <StartTrading />
     </>
   );
 };
